@@ -1,0 +1,5 @@
+#+TITLE: spongebob-case.el
+
+#+HTML: <img src="images/spongebob.jpg" align="right">
+
+YoU cAn'T wRiTe A pAcKaGe ThIs StUpId!
